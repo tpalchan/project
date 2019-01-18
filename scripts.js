@@ -1,6 +1,7 @@
 //define page main elements
 const page = document.getElementById('root');
 
+//define logo
 const logo = document.createElement('img');
 logo.src = 'logo.png';
 
